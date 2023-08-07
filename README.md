@@ -1,6 +1,9 @@
 # FindYourDev
 A portfolio website to find Dev around the Globe
 
+![findyourdev](https://github.com/akashtripathy/FindYourDev/assets/55340850/07d618b7-24fe-426b-93cb-1da668192a94)
+
+
 Welcome to FindYourDev, the innovative web application that aims to revolutionize the freelancing landscape by bridging the gap between fresher freelancer developers and clients seeking their expertise. Our client-centric approach sets us apart, as we empower clients to discover talented developers effortlessly, reversing the traditional paradigm of developers actively searching for projects. By providing a level playing field for newcomers in the freelancing industry, we strive to foster growth, nurture talent, and create opportunities for all stakeholders involved.
 At FindYourDev, we understand the challenges faced by talented but inexperienced developers, and we are here to change that. Our platform is tailor-made to empower fresher freelancer developers by removing barriers and facilitating a transparent and efficient collaboration process. Through personalized portfolios acting as virtual resumes, developers can showcase their skills, past projects, and relevant experience, giving clients a comprehensive overview of their capabilities and expertise.
 
